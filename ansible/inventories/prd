@@ -1,0 +1,10 @@
+[servers]
+server1 ansible_host=3.148.113.2
+server2 ansible_host=3.133.111.174
+server3 ansible_host=18.117.159.88
+
+[servers:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/home/ubuntu/Ansiform-MultiEnv-Infra-Automation/terraform/ansiform-key
+ansible_python_interpreter=/usr/bin/python3
+
