@@ -1,7 +1,0 @@
-.terraform.lock.hcl
-terraform.tfstate
-tws-terra-key
-.terraform
-.terraform.*
-terraform.tfstate.backup
-
