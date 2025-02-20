@@ -785,3 +785,10 @@ Congratulations on successfully implementing and managing a multi-environment in
 This project has provided you with hands-on experience in managing infrastructure and configurations for multiple environments using industry-standard tools like Terraform and Ansible. You have successfully automated your infrastructure management, from provisioning to configuration, across different environments.
 
 You can now apply these skills to any real-world scenario, ensuring that infrastructure is managed efficiently, securely, and consistently across any environment.
+
+## **Contributing**  
+Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements.  
+
+## **License** 
+This project is licensed under the **MIT License**. See `LICENSE` for details.  
+---
